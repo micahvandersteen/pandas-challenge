@@ -1,0 +1,5 @@
+Based on the data I collected and have show in the 'main.ipynb' file, I can point out a couple observable trends about the school district:
+
+1) On average, the district's charter schools earn better marks than the district schools.
+
+2) On average, schools with a higher faculty:student ratio (smaller schools) earn better marks than the schools with a greater number of students. I would expect this reflects the class size and suggests that having a classroom with fewer students in it is better for their learning.
